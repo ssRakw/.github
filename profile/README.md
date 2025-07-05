@@ -10,7 +10,7 @@
 
 ## 📝 이슈 작성 가이드
 
-- [이슈 메시지 가이드](./profile/docs/ISSUE_CONVENTION.md)
+- [이슈 메시지 가이드](./docs/ISSUE_CONVENTION.md)
 
 ---
 
@@ -28,13 +28,13 @@
 
 ## 💬 커밋 컨벤션
 
-- [커밋 메시지 가이드](./profile/docs/COMMIT_CONVENTION.md)
+- [커밋 메시지 가이드](.//docs/COMMIT_CONVENTION.md)
 
 ---
 
 ## 🧹 코드 컨벤션
 
-- [코드 컨벤션 가이드](./profile/docs/CODE_CONVENTION.md)
+- [코드 컨벤션 가이드](.//docs/CODE_CONVENTION.md)
 
 ---
 
